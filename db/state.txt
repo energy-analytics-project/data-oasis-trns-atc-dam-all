@@ -1,5 +1,5 @@
-/home/toddg/proj/energy-dashboard/data/data-oasis-trns-atc-dam-all/sql/20190920_20190921_TRNS_ATC_DAM_20190922_11_06_44_v1.sql
-/home/toddg/proj/energy-dashboard/data/data-oasis-trns-atc-dam-all/sql/20190916_20190917_TRNS_ATC_DAM_20190922_11_06_23_v1.sql
-/home/toddg/proj/energy-dashboard/data/data-oasis-trns-atc-dam-all/sql/20190917_20190918_TRNS_ATC_DAM_20190922_11_06_28_v1.sql
-/home/toddg/proj/energy-dashboard/data/data-oasis-trns-atc-dam-all/sql/20190918_20190919_TRNS_ATC_DAM_20190922_11_06_34_v1.sql
-/home/toddg/proj/energy-dashboard/data/data-oasis-trns-atc-dam-all/sql/20190919_20190920_TRNS_ATC_DAM_20190922_11_06_39_v1.sql
+20190918_20190919_TRNS_ATC_DAM_20190922_11_06_34_v1.sql
+20190920_20190921_TRNS_ATC_DAM_20190922_11_06_44_v1.sql
+20190917_20190918_TRNS_ATC_DAM_20190922_11_06_28_v1.sql
+20190916_20190917_TRNS_ATC_DAM_20190922_11_06_23_v1.sql
+20190919_20190920_TRNS_ATC_DAM_20190922_11_06_39_v1.sql
